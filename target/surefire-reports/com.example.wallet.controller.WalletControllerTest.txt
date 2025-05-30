@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.example.wallet.controller.WalletControllerTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.261 s -- in com.example.wallet.controller.WalletControllerTest
